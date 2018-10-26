@@ -296,3 +296,21 @@ body {
 		margin-left: 0;
 	}
 }
+
+/* New Styles */
+body {
+	color: #5d5d5d;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #fe951c;
+}
+a {
+	color: #067add;
+}
+a:hover,
+a:focus {
+	color: #fe951c;
+}
+.site-footer {
+	background-color: #067add;
+}
