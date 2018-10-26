@@ -312,5 +312,15 @@ a:focus {
 	color: #fe951c;
 }
 .site-footer {
-	background-color: #067add;
+	background-color: #5d5d5d;
+}
+.site-header-logo {
+	display: block;
+	max-width: 300px;
+	margin: 20px auto;
+}
+.site-footer-logo {
+	display: block;
+	max-width: 150px;
+	margin: 20px auto;
 }
